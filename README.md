@@ -1,5 +1,5 @@
 # IlkOgretimOrtalamaHesaplamaUygulamasi
-Bait ilkokul, ortaokul ve lise ders ortalaması hesaplama uygulaması (Visual Studio C#)
+Basit ilkokul, ortaokul ve lise ders ortalaması hesaplama uygulaması (Visual Studio C#)
 
 Bu uygulama basit bir ilkokul, ortaokul ve lise ders ortalaması hesaplama uygulamasıdır.
 Bu uygulama yardımı ile gerekli alanlarıdoldurarak ilgili dersi geçip geçmediğinizi ve ortalamanızın kaç olduğunu hesaplayabilirsiniz.
