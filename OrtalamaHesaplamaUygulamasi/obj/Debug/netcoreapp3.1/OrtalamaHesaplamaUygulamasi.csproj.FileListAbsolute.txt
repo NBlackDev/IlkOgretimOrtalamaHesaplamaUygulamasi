@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\bin\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.exe
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\bin\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.deps.json
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\bin\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.runtimeconfig.json
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\bin\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\bin\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.dll
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\bin\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.pdb
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.Form1.resources
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.dll
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.pdb
+C:\Users\ASUS\Desktop\OrtalamaHesaplamaUygulamasi\obj\Debug\netcoreapp3.1\OrtalamaHesaplamaUygulamasi.genruntimeconfig.cache
